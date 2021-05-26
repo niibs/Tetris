@@ -1,9 +1,9 @@
 
 # Prison Tetris 
 A CMSC 21 Final Project 
-Lungay, Mariane Faye
-Miranda, Ericka Monique
-Nogra, Nibay
+
+> By: Lungay, Mariane Faye | Miranda, Ericka Monique | Nogra, Nibay
+
 
 ## OVERVIEW
 Our game is called “Prison Tetris,” it is based on the 1980s arcade classic game of Tetris. The object of the game is to score as many points as possible by clearing horizontal lines of Blocks. And similar to the classic game of tetris, lines are cleared when they are filled with Blocks and have no empty spaces. But to make things interesting, this will be a story-based game.
@@ -14,7 +14,7 @@ manages to complete the level, the time bomb will explode and create an opening 
 
 ## GAMEPLAY
 
-The player controls the tetriminos by using the left and right arrow keys (to turn), the up arrow key (to rotate clockwise), and the down arrow key (to drop: soft). But for a hard drop, the space bar will be used. And to hold and change pieces, we use the Shift key. The prisoner is represented by an emoji. The player controls the prisoner by using the A and D keys (to turn), and the W key (to jump one unit/block up). The prisoner cannot jump higher than 1 unit/block up. In the case that the prisoner gets trapped and has no way to escape, the player can choose from the following options:
+The player controls the tetriminos by using the **left and right arrow keys** (to turn), the **up arrow key** (to rotate clockwise), and the **down arrow key** (to drop: soft). But for a hard drop, the **space bar** will be used. And to hold and change pieces, we use the **Shift key**. The prisoner is represented by an emoji. The player controls the prisoner by using the **A and D keys** (to turn), and the **W key** (to jump one unit/block up). The prisoner cannot jump higher than 1 unit/block up. In the case that the prisoner gets trapped and has no way to escape, the player can choose from the following options:
 
 - Clear the blocks on top without crushing the prisoner 
 - Opt to exit from the game 
