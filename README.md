@@ -1,6 +1,7 @@
 # Prison Tetris 
 A CMSC 21 Final Project 
-##OVERVIEW
+
+# # OVERVIEW
 Our game is called “Prison Tetris,” it is based on the 1980s arcade classic game of Tetris. The
 object of the game is to score as many points as possible by clearing horizontal lines of Blocks.
 And similar to the classic game of tetris, lines are cleared when they are filled with Blocks and
