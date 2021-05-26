@@ -1,9 +1,9 @@
 
 # Prison Tetris 
 A CMSC 21 Final Project 
-> Lungay, Mariane Faye
-> Miranda, Ericka Monique
-> Nogra, Nibay
+Lungay, Mariane Faye
+Miranda, Ericka Monique
+Nogra, Nibay
 
 ## OVERVIEW
 Our game is called “Prison Tetris,” it is based on the 1980s arcade classic game of Tetris. The object of the game is to score as many points as possible by clearing horizontal lines of Blocks. And similar to the classic game of tetris, lines are cleared when they are filled with Blocks and have no empty spaces. But to make things interesting, this will be a story-based game.
